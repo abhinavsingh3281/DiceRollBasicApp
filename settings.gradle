@@ -1,0 +1,2 @@
+rootProject.name='MyDiceappTest'
+include ':app'
